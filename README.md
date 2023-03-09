@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Welcome to My Github page.
+
 <!--
 **Nouftamimi/Nouftamimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👀 I'm interested in Mobile development.
+- 🌱 I’m currently learning new back end frameworks.
+- 📫 How to reach me: through my email nouftamimi1@gmail.com or my Twitter acc @NoufMT32
+- 👯 I’m looking to collaborate on front-end frameworks generally and back-end frameworks specifically.
