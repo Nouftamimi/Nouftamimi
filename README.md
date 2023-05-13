@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoufMT32&label=Profile%20views&color=0e75b6&style=flat" alt="NoufMT32" /> </p>
 <p align="left"><a href="https://www.linkedin.com/in/noufaltamimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noufaltamimi/" height="30" width="40"/></a>      <a href="mailto:nouftamimi1@gmail.com" target="blank"><img align="center" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v10/192px.svg" alt="" height="50" width="40"/></a></p>
 
