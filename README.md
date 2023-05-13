@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀 I'm interested in Mobile development.
-- 🌱 I’m currently learning new back end frameworks.
-- 📫 How to reach me: through my email nouftamimi1@gmail.com or my Twitter acc @NoufMT32
+<h3 align="left">Connect with me:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/noufaltamimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noufaltamimi/" height="30" width="40"/></a>      <a href="mailto:nouftamimi1@gmail.com" target="blank"><img align="center" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v10/192px.svg" alt="" height="50" width="40"/></a></p>
 
