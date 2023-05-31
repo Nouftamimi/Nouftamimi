@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">How to reach me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/noufaltamimi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noufaltamimi/" height="30" width="40"/></a>      <a href="mailto:nouftamimi1@gmail.com" target="blank"><img align="center" src="https://fonts.gstatic.com/s/i/productlogos/gmail_2020q4/v10/192px.svg" alt="" height="50" width="40"/></a></p> 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/roamoha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roamoha9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roamoha9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roamoha9" height="30" width="40" /></a>
+<a href="https://twitter.com/noufmt32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noufmt32" height="30" width="40" /></a>
+
 </p>
 
