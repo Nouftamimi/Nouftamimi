@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nouftamimi&label=Profile%20views&color=0e75b6&style=flat" alt="nouftamimi" /> </p>
+
+<p align="left"> <a href="https://twitter.com/noufmt32" target="blank"><img src="https://img.shields.io/twitter/follow/noufmt32?logo=twitter&style=for-the-badge" alt="noufmt32" /></a> </p>
+
 <h3 align="left">Language and Tools:</h3>
 <p align="left">
 <a href="https://docs.vapor.codes" target="_blank" rel="noreferrer"> <img src="https://docs.vapor.codes/assets/logo.png"  width="40" height="40"/> </a>
