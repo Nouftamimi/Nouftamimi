@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 </p> 
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roapro9&show_icons=true&locale=en" alt="Nouftamimi" /></p>
